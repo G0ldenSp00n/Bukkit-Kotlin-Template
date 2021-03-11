@@ -1,0 +1,5 @@
+main: com.g0ldensp00n.plugin.Plugin
+name: Plugin
+author: G0ldenSp00n
+version: 1.0
+api-version: 1.16
